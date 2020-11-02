@@ -23,6 +23,8 @@
 * [#landscape](https://t.me/s/sre_hamster?q=%23landscape)
 * [#gitops](https://t.me/s/sre_hamster?q=%23gitops)
 * [#observability](https://t.me/s/sre_hamster?q=%23observability)
+* [#sre](https://t.me/s/sre_hamster?q=%23sre)
+* [#mlops](https://t.me/s/sre_hamster?q=%23mlops)
 
 ## Language
 
@@ -43,3 +45,7 @@
 * [#krane](https://t.me/s/sre_hamster?q=%23krane)
 * [#opa](https://t.me/s/sre_hamster?q=%23opa)
 * [#tsunami](https://t.me/s/sre_hamster?q=%23tsunami)
+* [#falco](https://t.me/s/sre_hamster?q=%23falco)
+* [#chaosmesh](https://t.me/s/sre_hamster?q=%23chaosmesh)
+* [#knative](https://t.me/s/sre_hamster?q=%23knative)
+* [#tekton](https://t.me/s/sre_hamster?q=%23tekton)
